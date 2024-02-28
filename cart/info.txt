@@ -1,0 +1,82 @@
+title:
+i willfix, edit, redesign, shopify cart page, cart drawer shopify developer
+positive keywords:
+CART PAGECART DISCOUNTSSHOPIFY CARTSHOPIFY DEVELOPERSHOPIFY WEBSITE
+Pricing:
+Starter: 
+Fix Issues + Customization + Responsive Design + Notes/Attributes in Cart Drawer,Cart Page
+$30
+Gold Standard:
+Custom Cart Page/Drawer + Adding Functionality of Shipping Bar + Discounts + Cart Upsell
+$70
+Shopify Premium Plus:
+Create Custom Cart Page/Drawer with Premium theme or like any Reference Design 
+$130
+Description:
+Greetings!
+
+Hey, I'm a professional Shopify Developer having 5+ years of experience in Shopify theme development. If you are looking for someone to develop or fix your Shopify Cart Page , Cart Drawer then you are at the right place. feel free to contact me.
+
+My goal is to assist my clients with professional, creative and effective store designs and provide greater support with 100% satisfaction.
+
+Here are some of the Shopify services that I offer:
+
+Create Custom Cart Drawer/Page
+Multiple Addons/Upsells on Cart Page
+Cart Discounts
+Shipping Progress Bar
+Shipping Rates Calculator
+Notes and Attributes sent with Orders
+Responsive Design of both Cart drawer and Cart page
+Setup One Page Checkout
+Why me?
+
+On time delivery
+Good Communication Skills
+My service comes with Lifetime Support (24/7 Support).
+Easy to work with
+100% Customer Satisfaction
+100% Money Back Gurantee
+
+
+Price may vary on your Final Requirements (Negotiable)
+
+
+
+P.S: Shopify checkout pages can only be modified if you're using shopify plus on your store. 
+
+
+
+Please Contact me before placing the order to discuss project in detail.
+
+
+
+Kind Regards:
+
+(Professional Shopify Theme Developer and Shopify Expert)
+
+
+FAQ:
+What is a Shopify cart page?
+The Shopify cart page is the virtual shopping cart where customers can review and manage the items they intend to purchase before proceeding to checkout.
+What is a cart drawer in Shopify?
+A cart drawer is a user interface element that displays the contents of a customer's shopping cart without navigating away from the current page. It usually slides in from the side or drops down from the top of the screen.
+ How do I add items to my Shopify cart?
+To add items to your Shopify cart, simply click the "Add to Cart" button or icon on a product page. You can also specify the quantity you want to add.
+ Can I edit the quantity of items in my cart?
+Yes, you can edit the quantity of items in your cart on the cart page or cart drawer by adjusting the quantity field next to each item.
+Can you develop a cart page using ajax?
+Yes i can develop a cart page using ajax
+Can you build a custom cart drawer including line items?
+Yes i can build a cart custom drawer that will open after product will add in cart.
+ How do I access my cart on Shopify?
+You can access your cart by clicking on the shopping cart icon, usually located in the website's header or navigation menu.
+Can I see estimated shipping costs in the checkout?
+Yes yo can see estimated shipping cost based on address on checkout.
+What payment options are available on the cart page or drawer?
+Payment options vary by store, but you can typically see available payment methods on the cart page or during the checkout process.
+
+
+Requirement:
+Please send your requirements before placing order.
+How i can help you?
